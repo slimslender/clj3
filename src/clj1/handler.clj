@@ -14,6 +14,8 @@
   {:pizza :pie
    :with :mushrooms})
 
+(def a "a")
+
 (def app
   (api
    {:swagger
